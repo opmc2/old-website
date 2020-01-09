@@ -15,7 +15,7 @@ role: PhD candidate in economics
 # Organizations/Affiliations
 organizations:
 - name: Sciences Po, Paris
-  url: "http://econ.sciences-po.fr/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include skills, education and labour.
