@@ -67,4 +67,4 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD candidate in economics at Sciences Po, supervised by Ghazala Azmat and Jean-Marc Robin. I am interested in skill formation and education and investigating how these factors affect people's outcomes.
+I am a PhD candidate in economics at Sciences Po, supervised by [Ghazala Azmat](https://sites.google.com/site/ghazalaazmat/home) and [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/home). I am interested in skill formation and education and investigating how these factors affect people's outcomes.
