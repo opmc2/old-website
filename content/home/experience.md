@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2017-09-01"
   date_end = ""
-  description = ""
+  description = "Teaching assistant for Intermediate Microeconomics (a second year UG course) taught by [Prof. Perez](http://eduardo.perez.free.fr/). Led weekly problem classes and marked the homeworks and exams."
   
 
 [[experience]]
@@ -34,12 +34,12 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-09-01"
   date_end = ""
-  description = ""
+  description = "Lectured to a small class of UGs following an interactive syllabus designed by [Prof. Oswald](https://floswald.github.io/teaching/scpoeconometrics/)."
 
 [[experience]]
   title = "TA: Graduate Micro 3"
   company = "Sciences Po, Paris"
   date_start = "2017-09-01"
   date_end = "2019-09-01"
-
+  description = "Teaching assistant for the second-year research masters microeconomics course, Graduate Micro 3, taught by [Prof. Perez](http://eduardo.perez.free.fr/). Led weekly problem classes and marked the homeworks and exams."
 +++
