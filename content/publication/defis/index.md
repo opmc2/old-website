@@ -3,7 +3,7 @@
 
 title: "The Effect of Continuous Training on Wages: Evidence from French Linked Employer-Employee Data"
 authors: [admin, julie-pernaudet, robert-garybobo, jeanmarc-robin]
-date: ""
+date: "2019-12-20"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
