@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Effect of Continuous Training on Wages: Evidence from French Linked Employer-Employee Data"
-authors: [admin, julie-pernaudet, robert-garybobo, jeanmarc-robin]
+authors: [admin, "[Robert Gary-Bobo](https://sites.google.com/site/robertgarybobopersonalpage/home)", "[Julie Pernaudet](https://sites.google.com/view/juliepernaudet/home?authuser=0)", "[Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/home)"]
 date: "2019-12-20"
 doi: ""
 
