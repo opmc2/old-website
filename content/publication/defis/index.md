@@ -54,7 +54,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: publication/defis/slides.pdf
+url_slides: https://opmc2.github.io/publication/defis/slides.pdf
 url_source:
 url_video:
 
