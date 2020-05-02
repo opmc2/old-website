@@ -18,7 +18,14 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: "A non-parametric finite-mixture approach to difference-in-difference estimation, with an application to professional training and wages"
 publication_short: ""
-abstract: "Using detailed survey data collected by Cereq (the Defis survey), linked to French administrative data on wages (DADS), we first carry out reduced-form analysis in the shape of difference-in-differences (DiD) estimates of the impact of formal training on wages and other outcomes. The estimated effects on wages are negligible, but we find small positive effects of training on the probability of gaining a permanent contract (CDI) and on becoming a full-time employee. These effects appear to be driven mainly by individuals who move firm. We then exploit a policy-relevant instrumental variable (IV)---whether the individual reports having received information on training from their firm. IV estimates of the same effects are larger in magnitude but are not statistically significant at even the 10% level. We then introduce unobserved heterogeneity as latent types. Our novel identification strategy allows us to use a binary instrument to estimate the effects of multivalued treatment. We estimate our model on the Defis data via the EM algorithm, and calculate analogues of the reduced-form treatment effects, to enable comparison with DiD and IV approaches. Our flexible model and estimation approach allows us to produce wage distributions conditional on worker type and training status."
+abstract: "We develop a finite-mixture framework for nonparametric difference-in-difference analysis with unobserved heterogeneity correlating treatment and outcome. 
+Our framework includes an instrumental variable for the treatment, and we demonstrate that our method allows us to relax the no common trend restriction usually required in difference-in-difference analysis. 
+We also show that outcomes can be Markovian provided there are multiple post-treatment observations.
+Our main theoretical contributions are the substitution of an instrument for the common-trends assumption, and a non-parametric identification proof.
+Empirically, we apply our framework to evaluate the effect of on-the-job/professional (re)training on wages, using novel French linked employee-employer data. 
+Estimating our model using the EM-algorithm, we find small ATEs and ATTs on hourly wages of between 2% and 3%. 
+However, we find larger effects on hours and annual wages with both ATEs and ATTs of over 5%.
+A simple extension to our model to include *observed* as well as unobserved heterogeneity produces very similar results."
 
 # Summary. An optional shortened abstract.
 summary: "We develop a finite-mixture framework for nonparametric difference-in-difference analysis with unobserved heterogeneity correlating treatment and outcome. 
