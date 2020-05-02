@@ -13,7 +13,7 @@ Decomposition analysis of the non-earnings factors is ongoing, and will hopefull
 authors: [admin]
 tags: [education]
 categories: []
-date: 2 May 2020
+date: 2020-05-02T17:31:46+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -36,7 +36,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "slides.pdf"
 url_video: ""
 
 # Slides (optional).
