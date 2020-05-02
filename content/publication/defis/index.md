@@ -26,8 +26,8 @@ Our framework includes an instrumental variable for the treatment, and we demons
 We also show that outcomes can be Markovian provided there are multiple post-treatment observations.
 Our main theoretical contributions are the substitution of an instrument for the common-trends assumption, and a non-parametric identification proof.
 Empirically, we apply our framework to evaluate the effect of on-the-job/professional (re)training on wages, using novel French linked employee-employer data. 
-Estimating our model using the EM-algorithm, we find small ATEs and ATTs on hourly wages of between 2\% and 3\%. 
-However, we find larger effects on hours and annual wages with both ATEs and ATTs of over 5\%.
+Estimating our model using the EM-algorithm, we find small ATEs and ATTs on hourly wages of between 2% and 3%. 
+However, we find larger effects on hours and annual wages with both ATEs and ATTs of over 5%.
 A simple extension to our model to include *observed* as well as unobserved heterogeneity produces very similar results."
 
 tags: []
