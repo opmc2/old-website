@@ -1,11 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The returns to different subjects and institutions in higher education"
-summary: "Using the UK Labour Force Survey (LFS) supplemented by more detailed longitudinal surveys, I estimate *ex post* returns to different subjects and types of higher education institutions (HEIs). 
-I find large dipersion in returns across both subjects and HEIs within cohorts, to the extent that choices *between subjects conditional on continuing to HE* can be more important for earnings than the choice to continue to HE. 
-Comparing across cohorts the ranking of subjects by median earnings has changed drastically over recent decades.
-Work to incorporate and control for important factors such as ability to understand whether these cross-subject differences are driven by differences in the students who choose these subjects, or whether different subjects have vastly different *causal effects on earnings* is ongoing."
+title: "Revisiting the wage returns to university via a non-parametric finite-mixture approach to difference-in-difference estimation"
+summary: "
+Using a novel methodology I estimate the wage returns to a university education in the UK for two cohorts separated by 20 years: one who left school at the beginning of a period of huge expansion in university attainment (1988) and the other who left school as the expansion slowed (2008). 
+I exploit the economic content of the Roy model to justify exclusion restrictions, allowing non-parametric identification of a model with unobserved heterogeneity. 
+The model is flexible enough to allow any number of post-schooling observations, so we can compare results on short panels (both cohorts) with those exploiting longer panels (1988 school leavers).
+Estimation is currently ongoing."
 authors: [admin]
 tags: []
 categories: []
