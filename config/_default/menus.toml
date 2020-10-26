@@ -14,11 +14,11 @@
   weight = 20
   identifier = "research"
 
-[[main]]
-  name = "Working papers"
-  url = "#research"
-  weight = 20
-  parent = "research"
+#[[main]]
+#  name = "Working papers"
+#  url = "#research"
+#  weight = 20
+#  parent = "research"
 
 [[main]]
   name = "Work in progress"
