@@ -3,11 +3,12 @@
 
 title: "Who goes to university and why? A comparison across cohorts (1985-2015)"
 summary: "
-I investigate the role of earnings expectations on young people's educational decisions and career choices. 
-Exploiting detailed longitudinal data on two UK cohorts, I model educational and career decisions and use a combination of choice data, wages and survey questions to better understand the factors that impact their decisions. I compare these factors across time (cohort vs cohort) and across socio-economic status (within cohorts).
-Preliminary results suggest that for both cohorts non-earnings factors are more important than earnings expectations in determining whether a student decides to continue on to higher education, and are also the main driver of the SES-gap in educational attainment.
-These factors are also responsible for the huge growth in degree attainment between the 1970 and 1990 cohorts, with the distribution in earnings expectations remaining largely constant across cohorts. 
-Meanwhile, the increase in the non-earnings factors across cohorts is equivalent to a 50% increase in earnings expectations. 
+I investigate the relative importance of earnings expectations versus other factors on young people's educational decisions and career choices. 
+Exploiting detailed longitudinal data on two UK cohorts, I model educational and career decisions and use a combination of choice data, wages and survey questions to better understand the factors that impact their decisions. 
+I compare these factors across time (cohort vs cohort) and across socio-economic status (within cohorts). 
+My results suggest that for both cohorts non-earnings factors are more important than earnings expectations in determining whether a student decides to continue on to higher education, and are also the main driver of the SES-gap in educational attainment. 
+These non-earnings factors are also responsible for the huge growth in degree attainment between the 1970 and 1990 cohorts, with earnings expectations remaining largely constant across cohorts. 
+Meanwhile, the increase in non-earnings factors between 1970 and 1990 cohorts is equivalent to a 50% increase in earnings expectations.
 Decomposition analysis of the non-earnings factors is ongoing, and will hopefully shed light on the main components of these 'psychic costs'.
 "
 authors: [admin]
@@ -47,9 +48,10 @@ url_video: ""
 slides: ""
 ---
 
-I investigate the role of earnings expectations on young people's educational decisions and career choices. 
-Exploiting detailed longitudinal data on two UK cohorts, I model educational and career decisions and use a combination of choice data, wages and survey questions to better understand the factors that impact their decisions. I compare these factors across time (cohort vs cohort) and across socio-economic status (within cohorts).
-Preliminary results suggest that for both cohorts non-earnings factors are more important than earnings expectations in determining whether a student decides to continue on to higher education, and are also the main driver of the SES-gap in educational attainment.
-These factors are also responsible for the huge growth in degree attainment between the 1970 and 1990 cohorts, with the distribution in earnings expectations remaining largely constant across cohorts. 
-Meanwhile, the increase in the non-earnings factors across cohorts is equivalent to a 50% increase in earnings expectations. 
+I investigate the relative importance of earnings expectations versus other factors on young people's educational decisions and career choices. 
+Exploiting detailed longitudinal data on two UK cohorts, I model educational and career decisions and use a combination of choice data, wages and survey questions to better understand the factors that impact their decisions. 
+I compare these factors across time (cohort vs cohort) and across socio-economic status (within cohorts). 
+My results suggest that for both cohorts non-earnings factors are more important than earnings expectations in determining whether a student decides to continue on to higher education, and are also the main driver of the SES-gap in educational attainment. 
+These non-earnings factors are also responsible for the huge growth in degree attainment between the 1970 and 1990 cohorts, with earnings expectations remaining largely constant across cohorts. 
+Meanwhile, the increase in non-earnings factors between 1970 and 1990 cohorts is equivalent to a 50% increase in earnings expectations.
 Decomposition analysis of the non-earnings factors is ongoing, and will hopefully shed light on the main components of these 'psychic costs'.
