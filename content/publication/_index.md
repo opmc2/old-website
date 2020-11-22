@@ -1,5 +1,5 @@
 ---
-title: Working papers
+title: Publications
 
 # View.
 #   1 = List
